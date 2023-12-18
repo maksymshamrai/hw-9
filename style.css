@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.upside {
+    background-color: #2F303A;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.Team {
+    background-color: #F5F4FA;
+}
+.footer {
+    background-color: #2F303A;
+    color: white
+}
